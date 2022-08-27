@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Bilha596
-- 👀 I’m interested in ..Software development.
-- 🌱 I’m currently learning ..Full stack development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Bilha596/Bilha596 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello I am christine Bilha 
+A software developer and cloud Engineer ....currently studing though 
+want to see domething fun ..here is my  code pen account  account  get to see live projects with codes too.
+![image](https://user-images.githubusercontent.com/80092734/187041338-61ca2673-4f72-4ec1-bddd-9cd1ccab7541.png)
